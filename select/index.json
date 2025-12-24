@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "BIRDBRAIN",
+  "base_artist": "Jamie Paige",
+  "createdAt": "2025-12-24T06:09:36.038268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Birdbrain",
+      "artist": "Buffalo Tom",
+      "has_synced": true,
+      "path": "select/01_Birdbrain_Buffalo_Tom.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Birdbrain (Live From London ULU 1992)",
+      "artist": "Buffalo Tom",
+      "has_synced": false,
+      "path": "select/02_Birdbrain_(Live_From_London_ULU_1992)_Buffalo_Tom.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Birdbrain",
+      "artist": "Be Afraid",
+      "has_synced": true,
+      "path": "select/03_Birdbrain_Be_Afraid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Birdbrain - Youth Of America",
+      "artist": "90's",
+      "has_synced": true,
+      "path": "select/04_Birdbrain_-_Youth_Of_America_90's.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige (ft. OK Glass)",
+      "has_synced": true,
+      "path": "select/05_BIRDBRAIN_Jamie_Paige_(ft._OK_Glass).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BIRDBRAIN (feat. OK Glass)",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/06_BIRDBRAIN_(feat._OK_Glass)_Jamie_Paige.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/07_BIRDBRAIN_Jamie_Paige.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige with OK Glass",
+      "has_synced": true,
+      "path": "select/08_BIRDBRAIN_Jamie_Paige_with_OK_Glass.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BIRDBRAIN (feat. OK Glass)",
+      "artist": "Jamie Paige, Ok Glass",
+      "has_synced": true,
+      "path": "select/09_BIRDBRAIN_(feat._OK_Glass)_Jamie_Paige,_Ok_Glass.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige/OK Glass",
+      "has_synced": true,
+      "path": "select/10_BIRDBRAIN_Jamie_Paige_OK_Glass.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige feat. OK Glass",
+      "has_synced": true,
+      "path": "select/11_BIRDBRAIN_Jamie_Paige_feat._OK_Glass.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BIRDBRAIN (Paused)",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/12_BIRDBRAIN_(Paused)_Jamie_Paige.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige, OK Glass",
+      "has_synced": false,
+      "path": "select/pl_01_BIRDBRAIN_Jamie_Paige,_OK_Glass.txt"
+    }
+  ]
+}
